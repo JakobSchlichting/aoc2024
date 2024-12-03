@@ -1,1 +1,0 @@
-/Users/jakobschlichting/source/aoc2024/target/debug/day1: /Users/jakobschlichting/source/aoc2024/day1/src/main.rs /Users/jakobschlichting/source/aoc2024/utils/src/file.rs /Users/jakobschlichting/source/aoc2024/utils/src/lib.rs
